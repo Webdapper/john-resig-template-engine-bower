@@ -1,0 +1,24 @@
+{
+  "name": "john-resig-template-engine-bower",
+  "homepage": "https://github.com/Webdapper/john-resig-template-engine-bower",
+  "authors": [
+    "John Resig"
+  ],
+  "description": "John Resig's template engine in Bower module. Thanks John!",
+  "main": "template_engine.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "template",
+    "engine"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
