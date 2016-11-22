@@ -4,7 +4,7 @@
   "authors": [
     "John Resig"
   ],
-  "description": "John Resig's template engine in Bower module. Thanks John!",
+  "description": "John Resig's template engine in NPM module. Thanks John!",
   "main": "template_engine.js",
   "moduleType": [
     "amd"
